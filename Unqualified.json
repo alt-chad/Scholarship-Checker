@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "name": "Yasuo Kun",
+        "studentID": "2025000627",
+        "school": "lol university",
+        "email": "yasuo@gmail.com",
+        "average": 80.0,
+        "lowest_grade": 80.0,
+        "monthly_income": 1000000.0,
+        "extracurricular": true,
+        "date_submitted": "2026-03-21 22:27:38",
+        "status": "Not Qualified",
+        "scholarships_awarded": [],
+        "reasons_not_qualified": [
+            "General average 80.0 is below 90.",
+            "Lowest grade 80.0 is below 85.",
+            "Monthly income P1,000,000.00 exceeds P15,000.",
+            "Full Scholarship needs: average>=95, income<=P10k"
+        ]
+    }
+]

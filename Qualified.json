@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "name": "Akali Zed",
+        "studentID": "2025000616",
+        "school": "lol University",
+        "email": "akalikun@gmail.com",
+        "average": 90.0,
+        "lowest_grade": 90.0,
+        "monthly_income": 10000.0,
+        "extracurricular": true,
+        "date_submitted": "2026-03-21 22:25:43",
+        "status": "Qualified",
+        "scholarships_awarded": [
+            "Academic Scholarship",
+            "Financial Assistance"
+        ],
+        "reasons_not_qualified": [
+            "Full Scholarship needs: average>=95"
+        ]
+    }
+]
